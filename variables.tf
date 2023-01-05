@@ -15,3 +15,7 @@ variable region {
 variable tags {
     type = map          
 }
+
+variable vnets {
+    type = list(map(string))    
+}
