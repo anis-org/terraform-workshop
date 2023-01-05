@@ -4,10 +4,6 @@ rg_names = [
     "research_prod_rg"
 ]
 
-tags = {  
-    cost_center = "contoso research"    
-} 
-
 vnets = [
     {
         name = "dev_vnet"
